@@ -1,8 +1,9 @@
 pyInputPlus
-requests
+requests3
 pandas
 fake-useragent
 openpyxl
 SQLAlchemy
 psycopg2
 Jinja2
+requests
